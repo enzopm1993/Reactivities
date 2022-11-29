@@ -15,6 +15,7 @@ namespace Application.Activities
 
             public Handler(DataContext context)
             {
+                //_logger = logger;
                 _context = context;
             }
 
